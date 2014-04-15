@@ -1,0 +1,7 @@
+[run]
+branch = True
+parallel = True
+omit =
+    *dbapi20.py
+    *decimal.py
+    *numbers.py
