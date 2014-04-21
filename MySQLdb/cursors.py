@@ -10,7 +10,7 @@ import sys
 
 from MySQLdb.compat import unicode
 
-restr = r"""
+restr = br"""
     \s
     values
     \s*
